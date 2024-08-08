@@ -68,7 +68,7 @@ export default function Home() {
       alignItems="center"
       bgcolor="#ffecf2">
       <Typography variant="h1" className={bubblegumSans.className} color="#137a63">Emotional Support Agent</Typography>
-      <Typography variant="h6" className={bubblegumSans.className} color="#137a63">Disclaimer: I am not paying for the OpenAI API, so this isn't a functional chatbot.</Typography>
+      <Typography variant="h6" className={bubblegumSans.className} color="#137a63">Disclaimer: I am not paying for the OpenAI API, so this is not a functional chatbot.</Typography>
       <Typography variant="h6" className={bubblegumSans.className} color="#137a63">Someone pay me $20 USD so this will be functional :)</Typography>
       <Stack
         direction="column"
